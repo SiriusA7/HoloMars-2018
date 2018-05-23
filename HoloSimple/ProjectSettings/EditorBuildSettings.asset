@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0_Scenes/HoloManipularAlpha.unity
-    guid: 49b1b86259219984b8a2b03057a6ad9c
+    path: Assets/0_Scenes/HoloManipularBeta.unity
+    guid: 93df34c106a948f4a945623f12736a11

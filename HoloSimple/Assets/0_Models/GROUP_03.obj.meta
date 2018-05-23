@@ -7,13 +7,24 @@ ModelImporter:
   fileIDToRecycleName:
     100000: Group_01
     100002: //RootNode
+    100004: Default
     400000: Group_01
     400002: //RootNode
+    400004: Default
     2300000: Group_01
+    2300002: Default
     3300000: Group_01
+    3300002: Default
     4300000: Group_01
+    4300002: Default
     6400000: Group_01
+    6400002: Default
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMat
+    second: {fileID: 2100000, guid: 66c9198b039a6e9438948780ff7c18f1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
